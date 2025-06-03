@@ -4,7 +4,7 @@ This project focuses on real-time age and gender detection using Convolutional N
 Project Highlights:
 Dataset: 23,708 images labeled with age and gender.
 
-Data Split: 80% training and 20% testing.
+Data Split: 90% training and 10% testing.
 
 Model Architecture:
 
@@ -16,9 +16,9 @@ Softmax output layers for classification.
 
 Accuracy:
 
-Gender prediction: 85%
+Gender prediction: 88%
 
-Age prediction: 72%
+Age prediction: 37% (this can be improved if we use pre_trained models. working on it)
 
 Training Strategy:
 
